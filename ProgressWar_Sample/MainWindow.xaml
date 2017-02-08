@@ -1,0 +1,21 @@
+﻿<Window x:Class="ProgressWar_Sample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel Orientation="Vertical">
+        <StackPanel Orientation="Horizontal" >
+            <TextBlock Width="20" Text="hello" x:Name="pgrText"></TextBlock>
+            <ProgressBar x:Name="pgr" Width="500" Height="30" VerticalAlignment="Top" />
+            
+
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="tt" Width="20" x:Name="pgr1Text"></TextBlock>
+            <ProgressBar x:Name="pgr1" Width="500" Height="30" VerticalAlignment="Top" />
+          
+        </StackPanel>
+        <Button Height="30" x:Name="btn" VerticalAlignment="Bottom" Content="Go!" />
+        </StackPanel>
+
+    
+</Window>

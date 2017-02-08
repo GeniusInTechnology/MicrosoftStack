@@ -1,0 +1,13 @@
+c:\users\sukhdev.singh\documents\visual studio 2013\Projects\ProgressWar_Sample\ProgressWar_Sample\bin\Debug\ProgressWar_Sample.exe.config
+c:\users\sukhdev.singh\documents\visual studio 2013\Projects\ProgressWar_Sample\ProgressWar_Sample\bin\Debug\ProgressWar_Sample.exe
+c:\users\sukhdev.singh\documents\visual studio 2013\Projects\ProgressWar_Sample\ProgressWar_Sample\bin\Debug\ProgressWar_Sample.pdb
+c:\users\sukhdev.singh\documents\visual studio 2013\Projects\ProgressWar_Sample\ProgressWar_Sample\obj\Debug\MainWindow.baml
+c:\users\sukhdev.singh\documents\visual studio 2013\Projects\ProgressWar_Sample\ProgressWar_Sample\obj\Debug\MainWindow.g.cs
+c:\users\sukhdev.singh\documents\visual studio 2013\Projects\ProgressWar_Sample\ProgressWar_Sample\obj\Debug\App.g.cs
+c:\users\sukhdev.singh\documents\visual studio 2013\Projects\ProgressWar_Sample\ProgressWar_Sample\obj\Debug\ProgressWar_Sample_MarkupCompile.cache
+c:\users\sukhdev.singh\documents\visual studio 2013\Projects\ProgressWar_Sample\ProgressWar_Sample\obj\Debug\ProgressWar_Sample.g.resources
+c:\users\sukhdev.singh\documents\visual studio 2013\Projects\ProgressWar_Sample\ProgressWar_Sample\obj\Debug\ProgressWar_Sample.Properties.Resources.resources
+c:\users\sukhdev.singh\documents\visual studio 2013\Projects\ProgressWar_Sample\ProgressWar_Sample\obj\Debug\ProgressWar_Sample.csproj.GenerateResource.Cache
+c:\users\sukhdev.singh\documents\visual studio 2013\Projects\ProgressWar_Sample\ProgressWar_Sample\obj\Debug\ProgressWar_Sample.exe
+c:\users\sukhdev.singh\documents\visual studio 2013\Projects\ProgressWar_Sample\ProgressWar_Sample\obj\Debug\ProgressWar_Sample.pdb
+c:\users\sukhdev.singh\documents\visual studio 2013\Projects\ProgressWar_Sample\ProgressWar_Sample\obj\Debug\ProgressWar_Sample.csprojResolveAssemblyReference.cache
